@@ -1,3 +1,3 @@
 # ROAR_Competition
-
-Spring 2026 Solution for a team from University High School - placed 3rd in ROAR Competition
+UHS Team code for ROAR (Fall 2026) 
+Based on Spring 2026 Solution for a team from University High School
